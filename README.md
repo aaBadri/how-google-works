@@ -1,6 +1,8 @@
 # how-google-works
 Summary of "how google works" book.
-
+<div dir="rtl">
+خلاصه‌ای از کتاب «گوگل چونه کار می‌کند»
+</div>
 
 # فهرست
 
