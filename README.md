@@ -83,3 +83,16 @@ Summary of "how google works" book.
 - موریتس (یکی از اعضای هیئت مدیره) یک بیزینس پلن کامل خواست.
 </div>
 
+## <div dir="rtl">فقط برو با مهندس‌ها صحبت کن</div>
+
+## <div dir="rtl">طرح فنلاند</div>
+
+## <div dir="rtl">سرعت</div>
+
+## <div dir="rtl">خلاق باهوش</div>
+
+## <div dir="rtl">پروژه مفرح</div>
+
+
+
+
