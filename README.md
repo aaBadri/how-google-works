@@ -140,7 +140,6 @@ Summary of "how google works" book.
 <br>
 + ویژگی‌های خلاق باهوش:
 <br>
- <br>
 &nbsp;&nbsp;&nbsp;- به راحتی حوصله‌شان سر می‌رود و کارها را خیلی تغییر می‌دهند
   <br>
 &nbsp;&nbsp;&nbsp;- چند بعدی
